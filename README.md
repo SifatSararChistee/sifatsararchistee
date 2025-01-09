@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/VDq6wkY/Sifat-Sarar-Chistee.png"  />
+  <img height="200" src="https://i.ibb.co.com/Bc6DjJd/Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
 </div>
 
 ###
